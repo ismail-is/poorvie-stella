@@ -1,0 +1,1 @@
+import"./entry.1ee7db55.js";const o=""+globalThis.__publicAssetsURL("img/logo-dark.png"),g=""+globalThis.__publicAssetsURL("img/logo-light.png"),n=s=>{let t=[];if(!s.parentNode)return t;let i=s.parentNode.firstChild;for(;i;)i.nodeType===1&&i!==s&&t.push(i),i=i.nextSibling;return t};export{o as _,g as a,n as g};
